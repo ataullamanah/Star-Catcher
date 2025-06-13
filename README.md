@@ -26,7 +26,7 @@ A simple JavaScript game where you control a spaceship to collect falling stars 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions.
 
 ## Support
-If you enjoy this project, consider supporting me through [GitHub Sponsors](https://github.com/sponsors/your-username) to help maintain and improve this game!
+If you enjoy this project, consider supporting me through [GitHub Sponsors](https://github.com/sponsors/ataullamanah) to help maintain and improve this game!
 
 ## License
 This project is licensed under the MIT License.
